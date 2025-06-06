@@ -86,6 +86,11 @@
   "^生存模式：旅行 (\\\\d+)轮已经完成": "Odyssey: Survival | {0} Rounds Completed",
   "^旅行：轮回 (\\d+)轮已经完成": "Odyssey: Reincarnation | {0} Rounds Completed",
   "^旅行：炼狱 (\\d+)轮已经完成": "Odyssey: Purgatory | {0} Rounds Completed",
+  "^无尽：超限 (\\d+)轮已经完成": "Endless: Overrun | {0} Rounds Completed",
+  "^旅行炼狱：诅咒 (\\d+)轮已经完成": "Cursed Purgatory | {0} Rounds Completed",
+  "^旅行：极速版 (\\d+)轮已经完成": "Odyssey: Rush Mode | {0} Rounds Completed"
+  "^旅行：随机 (\\d+)轮已经完成": "Odyssey: Randomized | {0} Rounds Completed",
+  "^旅行：无尽 (\\d+)轮已经完成": "Endless: Randomized | {0} Rounds Completed",
   "^升级植物需要消耗(\\d+)点阳光": "Upgrading Requires {0} Sun",
   "^生存(模式)?(：)([^\\\\s]+) (\\\\d+)轮已经完成": "Survival: {2} | {3} Flags Completed",
   "^升级植物需要消耗(\\d+)阳光": "Upgrading Requires {0} Sun",
