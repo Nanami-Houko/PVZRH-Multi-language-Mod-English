@@ -136,12 +136,12 @@
     },
     "SquashTorch": {
         "achievement": 27,
-        "Name": "Use Squashed Torchwood to produce a Squash.",
+        "Name": "Use Squashwood to produce a Squash.",
         "Text": "Hot Stuff"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Discover Squashed Infernowood.",
+        "Name": "Discover Infernal Squashwood.",
         "Text": "Hell's Kitchen"
     },
     "Superkelp": {
