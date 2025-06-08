@@ -18,3 +18,12 @@ All 4 scripts read from the path where the script is located.
 
 ReadMe is under construction.
 > Reminder for myself to update the RM to include instructions for the scripts and a general guide to translating the game.
+
+
+## License
+
+All translation files in this repository are licensed under  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+🔗 https://creativecommons.org/licenses/by-nc/4.0/
+
+Commercial use is not permitted.
